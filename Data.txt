@@ -1,0 +1,2 @@
+Loan Data - https://www.kaggle.com/wordsforthewise/lending-club
+Features Dictionary - https://www.kaggle.com/wendykan/lending-club-loan-data#loan.csv
