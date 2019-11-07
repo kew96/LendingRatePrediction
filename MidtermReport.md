@@ -30,7 +30,7 @@ We still need to finalize which models will be used to answer each of our two qu
 
 To address the second question, we plan to group the examples by grade and implement a decision-tree based algorithm, such as XGBoost, within each group. This way, we can set an “intelligent investment” threshold for each loan grade, then classify each example accordingly. This is necessary because the adjustment for risk and volatility of each interest rate is higher for each loan grade from A to G. 
 
-## Subset of Features and Definiteions
+## Subset of Features and Definitions
 - __loan_amnt__: The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
 - __issue_d__: The month in which the loan was funded
 - __term__: The number of payments on the loan. Values are in months and can be either 36 or 60.
